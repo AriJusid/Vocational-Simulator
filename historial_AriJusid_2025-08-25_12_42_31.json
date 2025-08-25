@@ -1,0 +1,51 @@
+{
+  "usuario": "AriJusid",
+  "fecha": "2025-08-25 12:42:31",
+  "mensajes": [
+    {
+      "rol": "bot",
+      "contenido": "¡Hola! Soy tu bot orientador vocacional.",
+      "timestamp": "2025-08-25T12:44:44.567Z"
+    },
+    {
+      "rol": "bot",
+      "contenido": "¿Qué temas te interesan más? Ejemplo: tecnología, salud, arte, negocios.",
+      "timestamp": "2025-08-25T12:44:44.568Z"
+    },
+    {
+      "rol": "usuario",
+      "contenido": "arte",
+      "timestamp": "2025-08-25T12:44:53.674Z"
+    },
+    {
+      "rol": "bot",
+      "contenido": "¿Prefieres trabajar resolviendo problemas, comunicando ideas o ayudando a otros?",
+      "timestamp": "2025-08-25T12:44:53.674Z"
+    },
+    {
+      "rol": "usuario",
+      "contenido": "comunicando",
+      "timestamp": "2025-08-25T12:45:00.105Z"
+    },
+    {
+      "rol": "bot",
+      "contenido": "¿Te gustan más las actividades prácticas o teóricas?",
+      "timestamp": "2025-08-25T12:45:00.105Z"
+    },
+    {
+      "rol": "usuario",
+      "contenido": "practicas",
+      "timestamp": "2025-08-25T12:45:04.889Z"
+    },
+    {
+      "rol": "bot",
+      "contenido": "\nGracias por tus respuestas. Según lo que me contaste, te podrían interesar estas carreras:\n - Diseño Gráfico\n - Comunicación Social Ya que mencionaste interés en temas creativos anteriormente, estas carreras podrían ser ideales.",
+      "timestamp": "2025-08-25T12:45:04.890Z"
+    },
+    {
+      "rol": "bot",
+      "contenido": "Si querés saber más sobre alguna carrera, escribilo, o poné 'salir' para terminar.",
+      "timestamp": "2025-08-25T12:45:04.891Z"
+    }
+  ]
+}
